@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+}
+header h1 {
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    border-bottom: solid 1px #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header img {
+    text-align: center;
+    width: 80%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    text-align: left;
+    width: 80%;
+    overflow: hidden;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    border-bottom: solid 0px #16d592;
+
+}
+.para {
+    display: flex;
+
+    flex-direction: row;
+
+}
